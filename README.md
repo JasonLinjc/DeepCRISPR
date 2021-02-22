@@ -21,7 +21,7 @@ Online version of [DeepCRISPR](http://www.deepcrispr.net/) is also maintained.
 2. Load models from model directories (untar them first!) in `trained_models`. 
 3. Perform prediction.
 
-![sgRNA Coding Schema](images/sgrna.png)
+![sgRNA Coding Schema](images/deepMotifSyn.pdf)
 ```python
 ...
 import tensorflow as tf
